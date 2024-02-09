@@ -88,7 +88,9 @@ main {
 
 .weather-forecast {
   margin-top: 20px;
-  text-align: left;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
 }
 
 .weather-forecast-date {
@@ -102,6 +104,7 @@ main {
 
 .weather-forecast-temperatures {
   font-size: 13px;
+  color: #f65282;
 }
 
 footer {
