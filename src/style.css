@@ -98,6 +98,12 @@ main {
   opacity: 0.5;
 }
 
+.weather-forecast-icon {
+  width: 70px;
+  display: block;
+  margin: 0 auto;
+}
+
 .weather-forecast-temperature-min {
   opacity: 0.5;
 }
